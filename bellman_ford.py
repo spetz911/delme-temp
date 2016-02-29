@@ -1,3 +1,4 @@
+# Legacy algorithm, works fine for dense graph, but can't find the short path
 
 class Edge:
     def __init__(self, a,b,cost):
